@@ -1,2 +1,2 @@
 # projekt
-Raziskovalna naloga
+Face detection on webcam
